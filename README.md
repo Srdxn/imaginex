@@ -77,3 +77,6 @@ npm run server
 # Start frontend in another terminal
 cd ../client
 npm run dev
+```
+
+> ⚠️ **Note:** You’ll need to set up your own environment variables (`.env`) including Razorpay keys, ClipDrop API key, MongoDB URI, etc.
